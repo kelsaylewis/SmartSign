@@ -1,0 +1,16 @@
+c:\users\kelsay\documents\visual studio 2012\Projects\TestProject_withHotkeys\TestProject_withHotkeys\bin\Debug\TestProject_withHotkeys.exe.config
+c:\users\kelsay\documents\visual studio 2012\Projects\TestProject_withHotkeys\TestProject_withHotkeys\bin\Debug\TestProject_withHotkeys.exe
+c:\users\kelsay\documents\visual studio 2012\Projects\TestProject_withHotkeys\TestProject_withHotkeys\bin\Debug\TestProject_withHotkeys.pdb
+c:\users\kelsay\documents\visual studio 2012\Projects\TestProject_withHotkeys\TestProject_withHotkeys\bin\Debug\Hotkeys.dll
+c:\users\kelsay\documents\visual studio 2012\Projects\TestProject_withHotkeys\TestProject_withHotkeys\bin\Debug\Hotkeys.pdb
+c:\users\kelsay\documents\visual studio 2012\Projects\TestProject_withHotkeys\TestProject_withHotkeys\obj\Debug\TestProject_withHotkeys.csprojResolveAssemblyReference.cache
+c:\users\kelsay\documents\visual studio 2012\Projects\TestProject_withHotkeys\TestProject_withHotkeys\obj\Debug\TestProject_withHotkeys.Properties.Resources.resources
+c:\users\kelsay\documents\visual studio 2012\Projects\TestProject_withHotkeys\TestProject_withHotkeys\obj\Debug\TestProject_withHotkeys.csproj.GenerateResource.Cache
+c:\users\kelsay\documents\visual studio 2012\Projects\TestProject_withHotkeys\TestProject_withHotkeys\obj\Debug\TestProject_withHotkeys.exe
+c:\users\kelsay\documents\visual studio 2012\Projects\TestProject_withHotkeys\TestProject_withHotkeys\obj\Debug\TestProject_withHotkeys.pdb
+c:\users\kelsay\documents\visual studio 2012\Projects\TestProject_withHotkeys\TestProject_withHotkeys\obj\Debug\TestProject_withHotkeys.Form1.resources
+C:\Users\Kelsay\documents\visual studio 2012\Projects\TestProject_withHotkeys\TestProject_withHotkeys\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Kelsay\documents\visual studio 2012\Projects\TestProject_withHotkeys\TestProject_withHotkeys\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Kelsay\documents\visual studio 2012\Projects\TestProject_withHotkeys\TestProject_withHotkeys\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Kelsay\documents\visual studio 2012\Projects\TestProject_withHotkeys\TestProject_withHotkeys\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Kelsay\documents\visual studio 2012\Projects\TestProject_withHotkeys\TestProject_withHotkeys\obj\Debug\TestProject_withHotkeys.csproj.ResolveComReference.cache
