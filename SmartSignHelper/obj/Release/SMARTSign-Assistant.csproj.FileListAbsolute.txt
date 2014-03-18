@@ -1,0 +1,16 @@
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\bin\Release\SmartSignHelper.exe.config
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\bin\Release\SmartSignHelper.exe
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\bin\Release\SmartSignHelper.pdb
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\bin\Release\Hotkeys.dll
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\bin\Release\Hotkeys.pdb
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\obj\Release\SMARTSign-Assistant.csprojResolveAssemblyReference.cache
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\obj\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\obj\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\obj\Release\SMARTSign-Assistant.csproj.ResolveComReference.cache
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\obj\Release\TestProject_withHotkeys.Form1.resources
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\obj\Release\SmartSignHelper.Properties.Resources.resources
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\obj\Release\SMARTSign-Assistant.csproj.GenerateResource.Cache
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\obj\Release\SmartSignHelper.exe
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\obj\Release\SmartSignHelper.pdb

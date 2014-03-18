@@ -29,10 +29,9 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            this.textBox1 = new System.Windows.Forms.TextBox();
             this.searchBox = new System.Windows.Forms.TextBox();
-            this.mainFlash = new AxShockwaveFlashObjects.AxShockwaveFlash();
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
+            this.HotKeyLabel = new System.Windows.Forms.Label();
             this.LogLocation = new System.Windows.Forms.Label();
             this.LogButton = new System.Windows.Forms.Button();
             this.label10 = new System.Windows.Forms.Label();
@@ -56,7 +55,7 @@
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.mainFlash)).BeginInit();
+            this.mainFlash = new AxShockwaveFlashObjects.AxShockwaveFlash();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
@@ -72,17 +71,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.mainFlash)).BeginInit();
             this.SuspendLayout();
-            // 
-            // textBox1
-            // 
-            this.textBox1.Location = new System.Drawing.Point(340, 402);
-            this.textBox1.MaximumSize = new System.Drawing.Size(300, 300);
-            this.textBox1.Multiline = true;
-            this.textBox1.Name = "textBox1";
-            this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(200, 31);
-            this.textBox1.TabIndex = 0;
             // 
             // searchBox
             // 
@@ -96,15 +86,6 @@
             this.searchBox.MouseClick += new System.Windows.Forms.MouseEventHandler(this.clearText);
             this.searchBox.KeyDown += new System.Windows.Forms.KeyEventHandler(this.CheckforEnter);
             // 
-            // mainFlash
-            // 
-            this.mainFlash.Enabled = true;
-            this.mainFlash.Location = new System.Drawing.Point(3, 62);
-            this.mainFlash.Name = "mainFlash";
-            this.mainFlash.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("mainFlash.OcxState")));
-            this.mainFlash.Size = new System.Drawing.Size(547, 334);
-            this.mainFlash.TabIndex = 2;
-            // 
             // splitContainer1
             // 
             this.splitContainer1.Location = new System.Drawing.Point(0, 0);
@@ -113,11 +94,11 @@
             // splitContainer1.Panel1
             // 
             this.splitContainer1.Panel1.BackColor = System.Drawing.Color.Transparent;
+            this.splitContainer1.Panel1.Controls.Add(this.HotKeyLabel);
             this.splitContainer1.Panel1.Controls.Add(this.LogLocation);
             this.splitContainer1.Panel1.Controls.Add(this.LogButton);
             this.splitContainer1.Panel1.Controls.Add(this.searchBox);
             this.splitContainer1.Panel1.Controls.Add(this.mainFlash);
-            this.splitContainer1.Panel1.Controls.Add(this.textBox1);
             this.splitContainer1.Panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.splitContainer1_Panel1_Paint);
             // 
             // splitContainer1.Panel2
@@ -139,6 +120,14 @@
             this.splitContainer1.Size = new System.Drawing.Size(784, 448);
             this.splitContainer1.SplitterDistance = 555;
             this.splitContainer1.TabIndex = 3;
+            // 
+            // HotKeyLabel
+            // 
+            this.HotKeyLabel.AutoSize = true;
+            this.HotKeyLabel.Location = new System.Drawing.Point(412, 410);
+            this.HotKeyLabel.Name = "HotKeyLabel";
+            this.HotKeyLabel.Size = new System.Drawing.Size(0, 13);
+            this.HotKeyLabel.TabIndex = 5;
             // 
             // LogLocation
             // 
@@ -411,6 +400,15 @@
             this.pictureBox1.MouseEnter += new System.EventHandler(this.changePointertoHand);
             this.pictureBox1.MouseLeave += new System.EventHandler(this.changeHandtoPointer);
             // 
+            // mainFlash
+            // 
+            this.mainFlash.Enabled = true;
+            this.mainFlash.Location = new System.Drawing.Point(3, 62);
+            this.mainFlash.Name = "mainFlash";
+            this.mainFlash.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("mainFlash.OcxState")));
+            this.mainFlash.Size = new System.Drawing.Size(547, 334);
+            this.mainFlash.TabIndex = 2;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -421,7 +419,6 @@
             this.Name = "Form1";
             this.Text = "SMARTSign-Assistant";
             this.Load += new System.EventHandler(this.Form1_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.mainFlash)).EndInit();
             this.splitContainer1.Panel1.ResumeLayout(false);
             this.splitContainer1.Panel1.PerformLayout();
             this.splitContainer1.Panel2.ResumeLayout(false);
@@ -439,13 +436,13 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.mainFlash)).EndInit();
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.TextBox searchBox;
         private AxShockwaveFlashObjects.AxShockwaveFlash mainFlash;
         private System.Windows.Forms.SplitContainer splitContainer1;
@@ -477,6 +474,7 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button LogButton;
         private System.Windows.Forms.Label LogLocation;
+        private System.Windows.Forms.Label HotKeyLabel;
 
     }
 }

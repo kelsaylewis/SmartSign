@@ -38,7 +38,6 @@ namespace TestProject_withHotkeys
  
         private void HandleHotkey()
         {
-            WriteLine("Hotkey pressed!");
             // save old clipboard
             IDataObject oldClipboardData = Clipboard.GetDataObject();
             // send copy command to grab highlighted data
@@ -62,22 +61,17 @@ namespace TestProject_withHotkeys
  
         private void Form1_Load(object sender, EventArgs e)
         {
-            WriteLine("Trying to register SHIFT+F1");
+            HotKeyLabel.Text = "Hot Key: SHIFT+F1";
             if (ghk.Register())
-                WriteLine("Hotkey registered.");
+                Debug.WriteLine("Hotkey registered.");
             else
-                WriteLine("Hotkey failed to register");
+                Debug.WriteLine("Hotkey failed to register");
         }
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
             if (!ghk.Unregiser())
                 MessageBox.Show("Hotkey failed to unregister!");
-        }
-
-        private void WriteLine(string text)
-        {
-            textBox1.Text += text + Environment.NewLine;
         }
 
         // This function grabs the text in the search textbox and searches the database for the video and displays the video
