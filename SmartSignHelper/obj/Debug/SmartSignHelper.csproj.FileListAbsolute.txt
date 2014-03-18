@@ -1,0 +1,16 @@
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\bin\Debug\SmartSignHelper.exe.config
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\bin\Debug\SmartSignHelper.exe
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\bin\Debug\SmartSignHelper.pdb
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\bin\Debug\Hotkeys.dll
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\bin\Debug\Hotkeys.pdb
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\obj\Debug\SmartSignHelper.csprojResolveAssemblyReference.cache
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\obj\Debug\SmartSignHelper.csproj.ResolveComReference.cache
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\obj\Debug\TestProject_withHotkeys.Form1.resources
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\obj\Debug\SmartSignHelper.Properties.Resources.resources
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\obj\Debug\SmartSignHelper.csproj.GenerateResource.Cache
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\obj\Debug\SmartSignHelper.exe
+C:\Users\Kelsay\Documents\Visual Studio 2012\Projects\SmartSignHelper\SmartSignHelper\obj\Debug\SmartSignHelper.pdb
